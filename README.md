@@ -1,7 +1,7 @@
 
 # ECommerce
 
-This is a proof-of-concept project that conceptualizes an e-commerce website with a .NET Core backend that uses "REST API with basic CQRS and DDD" and a frontend that uses Vue3. It is **not** a fully functional website that is ready to be deployed. It demonstrates the following:
+This is a proof-of-concept project that conceptualizes an e-commerce website with a .NET Core backend that uses "REST API with basic CQRS and DDD" and a frontend that uses Vue3. It is <ins>**not**</ins> a fully functional website that is ready to be deployed. It demonstrates the following:
 
 - C#
 - CQRS
