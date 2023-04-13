@@ -36,8 +36,8 @@ export default defineComponent({
     computed: {
       products: function () {
           if (this.sortSelection === this.sortingValues[0])
-            return this.items.sort((a, b) => (a.price > b.price) ? 1 : -1)
-          return this.items.sort((a, b) => (a.price < b.price) ? 1 : -1)
+            return [...this.items].sort((a, b) => (a.price > b.price) ? 1 : -1)
+          return [...this.items].sort((a, b) => (a.price < b.price) ? 1 : -1)
         }
     },
     components: {
