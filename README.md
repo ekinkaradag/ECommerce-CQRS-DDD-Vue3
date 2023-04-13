@@ -30,3 +30,10 @@ This is a proof-of-concept project that conceptualizes an e-commerce website wit
     1. Open up a terminal
     2. Change the directory to "~/ECommerce.Vue"
     3. run `yarn` or `yarn install`
+
+## To start
+
+1. Select **ECommerce.API** as the "Start up Project".
+2. Start Debugging
+3. Open up a terminal and change the directory to "~/ECommerce.Vue". Then, run `yarn serve`
+4. Open up a browser and go to "https://localhost:5002/" (or what `yarn serve` displayed on the screen)
